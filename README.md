@@ -81,3 +81,8 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 *For downloads, setup guides, and server status, visit [kuailianlilia.com](https://kuailianlilia.com)*
+
+## Related Projects
+- [SafeW Secure Messaging](https://github.com/mojinmopin-art/safew-security-tool) - Encrypted instant messaging app
+- [OpenClaw AI](https://github.com/mojinmopin-art/openclaw-ai-assistant) - AI-powered browser assistant
+- [QClaw AI](https://github.com/mojinmopin-art/qclaw-ai-assistant) - AI chat assistant
